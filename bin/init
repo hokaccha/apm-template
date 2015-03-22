@@ -1,0 +1,6 @@
+#!/bin/sh
+
+cd $(dirname $0)/../..
+apm init -p $1 --template apm-template/package
+mv $1 atom-$1
+echo "created atom-$1"
