@@ -1,7 +1,7 @@
 {
   "name": "__package-name__",
   "main": "./lib/__package-name__",
-  "version": "0.1.0",
+  "version": "0.0.0",
   "description": "",
   "repository": "https://github.com/hokaccha/atom-__package-name__",
   "license": "MIT",
